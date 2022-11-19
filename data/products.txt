@@ -4,3 +4,4 @@ coffee maker
 coffee cup
 crew socks
 pajamas
+git crazy commands
